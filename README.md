@@ -26,7 +26,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - **Node.js & npm** – runtime and package management
 - Add your framework and libraries here (for example Next.js, React, Express, Prisma)
 
-## 📁 Project Structure
+## 📁 Project Structure ##
 
 ```
 project-name/
