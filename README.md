@@ -12,7 +12,7 @@ A modern, type-safe application written in **TypeScript**.
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
-## ✨ Features
+## ✨ Features ##
 
 - Almost entirely written in TypeScript for safer, more maintainable code
 - Strict type checking to catch errors early
