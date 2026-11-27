@@ -1,5 +1,4 @@
-
-## Project Name ##
+#### Project Name ####
 
 A modern, type-safe application written in **TypeScript**.
 
